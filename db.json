@@ -25,7 +25,7 @@
             {"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
         ],
      "kuis1": [
-        {"Judul": "jenis - jenis Kopi"},
-        {"Judul": "metode - metode menyeduh kopi"}
+        {"Judul": "jenis - jenis Kopi", "Gambar" : "biji kopi"},
+        {"Judul": "metode - metode menyeduh kopi", "Gambar" : "metode seduh"}
      ]   
     }
