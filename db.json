@@ -27,5 +27,9 @@
      "kuis1": [
         {"Judul": "jenis - jenis Kopi", "Gambar" : "biji kopi.jpg", "Isi" : " Hampir semua jenis tanaman kopi bisa ditanam di Indonesia"},
         {"Judul": "metode - metode menyeduh kopi", "Gambar" : "metode seduh.jpg", "Isi" : "Banyak metode untuk menyeduh kopi"}
-     ]   
+        ],
+    "Makanan": [
+        {"id": 1, "Makanan" : "Crispy Chicken Wings with Thai Basil Chilli"},
+        {"id": 2, "Makanan" : "Green Curry Quiche"}
+        ]
     }
