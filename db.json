@@ -29,7 +29,7 @@
         {"Judul": "metode - metode menyeduh kopi", "Gambar" : "metode seduh.jpg", "Isi" : "Banyak metode untuk menyeduh kopi"}
         ],
     "Makanan": [
-        {"id": 1, "Makanan" : "Crispy Chicken Wings with Thai Basil Chilli"},
-        {"id": 2, "Makanan" : "Green Curry Quiche"}
+        {"id": 1, "Makanan" : "Crispy Chicken Wings with Thai Basil Chilli", "image" : "chicken.jpg"},
+        {"id": 2, "Makanan" : "Green Curry Quiche", "image" : "curry.jpg"}
         ]
     }
